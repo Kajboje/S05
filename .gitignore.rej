@@ -1,0 +1,10 @@
+diff a/.gitignore b/.gitignore	(rejected hunks)
+@@ -11,4 +11,5 @@
+ *.sln
+ *.suo
+ *.xcodeproj
+-*.xcworkspace
+\ No newline at end of file
++*.xcworkspace
++Content/Dynamic/FirstPersonExampleMap_BuiltData.uasset
+\ No newline at end of file
